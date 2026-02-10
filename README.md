@@ -18,8 +18,9 @@
 You can install the scheme directly into the system Caelestia directory:
 
 ```bash
-sudo git clone https://github.com/username/wine.git \
-  /usr/lib/python3.14/site-packages/caelestia/data/schemes/
+git clone https://github.com/username/caelestia-wine.git
+cd caelestia-wine
+sudo mv wine /usr/lib/python3.14/site-packages/caelestia/data/schemes/
 ```
 
 After that, the scheme will be available automatically.
