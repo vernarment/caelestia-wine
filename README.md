@@ -33,27 +33,9 @@ caelestia scheme set -n wine
 
 ---
 
-### Alternative method: manual installation
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/username/wine.git
-   ```
-2. Enter the project directory:
-
-   ```bash
-   cd wine
-   ```
-3. Copy the scheme files to:
-
-   ```bash
-   /usr/lib/python3.14/site-packages/caelestia/data/schemes/
-   ```
-
----
 ## Wallpaper
 https://wallhaven.cc/w/p92vg3
+
 ## 🤝 Contributing
 
 If you like **wine**, don’t forget to ⭐ the repository — it helps motivate sharing more things on GitHub 🍷
